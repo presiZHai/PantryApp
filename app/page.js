@@ -169,7 +169,7 @@ export default function Home() {
         <Box
           width="1000px"
           height="100px"
-          bgcolor={"#ADD8E6"}
+          bgcolor={"#33a5ff"}
           display={"flex"}
           justifyContent={"center"}
           alignItems={"center"}
@@ -189,7 +189,7 @@ export default function Home() {
               display={"flex"}
               justifyContent={"space-between"}
               alignItems={"center"}
-              bgcolor={"#f0f0f0"}
+              bgcolor={"#33ff8d"}
               paddingX={5}
             >
               <Typography
